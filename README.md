@@ -1,4 +1,4 @@
-###  Welcome 🙏 நல்வரவு
+###  Hola!
 ## Surya Varathan
 
 - 🔭 Worked as a Research Intern at [IIIT Banglore](https://www.iiitb.ac.in/)
