@@ -1,8 +1,7 @@
-###  Hola!
-## Surya Varathan
+##  Hola! This is Surya 🙋‍♂️
 
-- 🔭 Worked as a Research Intern at [IIIT Banglore](https://www.iiitb.ac.in/)
-- 🌱 I’m currently learning Cloud Computing
+- 🔭 Former Research Intern at [IIIT Banglore](https://www.iiitb.ac.in/)
 - 🎓 M.Sc. Theoretical Computer Science at [PSG College of Technology](www.psgtech.edu)
-- 💬 Ask me about Maths, Computers and Stars.
+- 🌱 I’m currently learning Full-Stack Development
+- 💬 Ask me about Maths, Computers and Stars
 - 📫 Reach me at [Telegram](https://t.me/surya_varathan/)
